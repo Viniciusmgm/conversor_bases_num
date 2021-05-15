@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversão</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+        <h1>Conversão BinDecHexOct</h1>
+    </header>
+    <section>
+        <p>Digite o número: <input type="text" name="txtn" id="txtn">
+            <input type="button" value="Calcular" onclick="calcular()" id="btn">
+        </p>
+        De: <select name="sel1" id="sel1">
+            <option value="s1">Selecione uma opção</option>
+            <option value="bin1">Binário</option>
+            <option value="dec1">Decimal</option>
+            <option value="hex1">Hexadecimal</option>
+            <option value="oct1">Octal</option>
+        </select>
+        Para: <select name="sel2" id="sel2">
+            <option value="s2">Selecione uma opção</option>
+            <option value="bin2" id="bin2">Binário</option>
+            <option value="dec2" id="dec2">Decimal</option>
+            <option value="hex2" id="hex2">Hexadecimal</option>
+            <option value="oct2" id="oct2">Octal</option>
+        </select>
+        <div id="msg"></div>
+    </section>
+    <footer>
+        <p>&copy;Vinizius33</p>
+    </footer>
+</body>
+<script src="script.js"></script>
+</html>

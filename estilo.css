@@ -1,0 +1,52 @@
+body{
+    background-color: crimson;
+    font: normal 15pt Arial;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.185);
+    text-align: center;
+    color: crimson;
+    font-weight: bold;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+select{
+    width: 175px;
+    height: 30px;
+    text-align: center;
+    font: normal 11pt Arial;
+    font-weight: bold;
+}
+input#txtn{
+    height: 30px;
+    text-align: center;
+    font: normal 11pt Arial;
+    font-weight: bold;
+    width: 140px;
+}
+div{
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+input#btn{
+    height: 30px;
+    text-align: center;
+    font: normal 11pt Arial;
+    font-weight: bold;
+    width: 115px;
+    margin-left: 8px;
+    background-color: crimson;
+    color: white;
+}
