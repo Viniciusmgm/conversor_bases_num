@@ -1,6 +1,6 @@
 # Conversor de Bases Numéricas
 
-Esse site, utilizando JavaScript ![javascript](C:\Users\Vini\Downloads\js (1).png), HTML ![html](C:\Users\Vini\Downloads\html (1).png) e CSS ![css](C:\Users\Vini\Downloads\css.png), tem como objetivo converter as bases númericas abaixo em outras bases numéricas
+Esse site, utilizando JavaScript ![javascript](<div>Ícones feitos por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>), HTML ![html](<div>Ícones feitos por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>) e CSS ![css](<div>Ícones feitos por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>), tem como objetivo converter as bases númericas abaixo em outras bases numéricas
 
 - Decimal
 - Binário
