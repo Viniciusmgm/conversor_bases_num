@@ -1,4 +1,4 @@
 # Conversor de Bases Numéricas
 
-Esse site tem como objetivo converter valores decimais, binários, hexadecimais e octais em outras bases numéricas
+Esse site, utilizando JavaScript, HTML e CSS, tem como objetivo converter as bases númericas abaixo em outras bases numéricas
 
